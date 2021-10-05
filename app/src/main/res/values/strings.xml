@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">UniversityApp</string>
     <string name="title">Android</string>
+    <string name="label">Capgemini</string>
 </resources>
